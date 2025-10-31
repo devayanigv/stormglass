@@ -1,5 +1,8 @@
 # StormGlass - Real-time Weather App
+👋 Hi, I'm Devyani!
 
+🎓 Undergraduate | 💻 Frontend Developer | 🌐 Web Projects  
+I love building clean, functional websites and small applications using HTML, CSS, and JavaScript.
 Live: [https://stormglass-devyanigv.vercel.app](https://stormglass-devyanigv.vercel.app)
 
 **Tech**: HTML, CSS, JS, OpenWeatherMap API, Lottie, Vercel  
@@ -11,4 +14,4 @@ Live: [https://stormglass-devyanigv.vercel.app](https://stormglass-devyanigv.ver
 ---
 
 ## Want This on Your Resume?
-[Download PDF](link) | [Hire Me](mailto: gvdevayani@gmail.com)
+[Download PDF](link) | [Hire Me](mailto: gvdevayani@gmail.com) Thanks for visiting my profile.
