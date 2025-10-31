@@ -1,8 +1,6 @@
-# StormGlass - Real-time Weather App
-👋 Hi, I'm Devyani!
+A simple and modern weather app that fetches real-time weather data using an API.  
+Search any city and instantly view temperature, humidity, wind speed, and more.
 
-🎓 Undergraduate | 💻 Frontend Developer | 🌐 Web Projects  
-I love building clean, functional websites and small applications using HTML, CSS, and JavaScript.
 Live: [https://stormglass-devyanigv.vercel.app](https://stormglass-devyanigv.vercel.app)
 
 **Tech**: HTML, CSS, JS, OpenWeatherMap API, Lottie, Vercel  
