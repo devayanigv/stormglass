@@ -1,7 +1,7 @@
 A simple and modern weather app that fetches real-time weather data using an API.  
 Search any city and instantly view temperature, humidity, wind speed, and more.
 
-Live: [https://stormglass-devyanigv.vercel.app](https://stormglass-devyanigv.vercel.app)
+Live: https://stormglass.vercel.app/
 
 **Tech**: HTML, CSS, JS, OpenWeatherMap API, Lottie, Vercel  
 **Features**: GPS, live rain, dark mode, error handling
